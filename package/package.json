@@ -1,0 +1,22 @@
+{
+  "name": "isstring-wds",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabipeter/Build_NPM_Extension.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Fabi Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabipeter/Build_NPM_Extension/issues"
+  },
+  "homepage": "https://github.com/fabipeter/Build_NPM_Extension#readme"
+}
